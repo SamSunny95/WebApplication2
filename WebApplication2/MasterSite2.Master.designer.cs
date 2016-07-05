@@ -10,7 +10,7 @@
 namespace WebApplication2 {
     
     
-    public partial class Site1 {
+    public partial class MasterSite2 {
         
         /// <summary>
         /// head control.

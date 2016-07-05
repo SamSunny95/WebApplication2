@@ -31,8 +31,17 @@ namespace WebApplication2
                 case "Home Page":
                     home.Attributes.Add("class", "active");
                     break;
-                case "Contact":
+                case "Contacts":
                     contact.Attributes.Add("class", "active");
+                    break;
+                case "Projects":
+                    Projects.Attributes.Add("class", "active");
+                    break;
+                case "About":
+                    About.Attributes.Add("class", "active");
+                    break;
+                case "Services":
+                    Services.Attributes.Add("class", "active");
                     break;
             }
         }

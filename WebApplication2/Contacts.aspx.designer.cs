@@ -10,7 +10,7 @@
 namespace WebApplication2 {
     
     
-    public partial class Contact {
+    public partial class Contacts {
         
         /// <summary>
         /// FirstNameTextBox control.
